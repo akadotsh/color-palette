@@ -5,7 +5,6 @@ cd color-palette
 ```
 
 ```
-
 go run main.go
 
 ```
